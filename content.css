@@ -1,0 +1,13 @@
+.content{
+    display: flex;
+    align-items: first baseline;
+    background: antiquewhite;
+    padding: 15px 2%;
+}
+
+.content-right{
+    display: flex;
+    align-items: first baseline;
+    background: antiquewhite;
+    padding: 15px 2%;
+}
